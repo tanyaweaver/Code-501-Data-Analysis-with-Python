@@ -5,9 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-*.csv
+
 # Distribution / packaging
 .Python
+# Ignore checkpoints created
+.ipynb-checkpoints
+*.csv
 env/
 build/
 develop-eggs/
