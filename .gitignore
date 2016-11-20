@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+# Ignore checkpoints created
+.ipynb-checkpoints
+*.csv
 env/
 build/
 develop-eggs/
