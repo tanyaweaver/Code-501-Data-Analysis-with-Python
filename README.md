@@ -13,3 +13,17 @@ Assignments for Code 501 at Code Fellows
 * Utilized Scikit-Learn (k - nearest neighbors algorithm) to create a prediction model for gender of participants based on columns such as
   'Income', 'Age', and 'CountryLive'. Compared accuracy of prediction for 4 created models.
 
+### To contribute to the project:
+* create a virtual environment in your working directory and activate it
+```
+$python3 -m venv .
+$source bin/activate
+```
+* fork the repo and clone it to your working directory
+* install the requirements
+```
+$pip install requirements.txt
+```
+* download the dataset from kaggle.com/freecodecamp/2016-new-coder-survey-
+* make sure '2016-FCC-New-Coders-Survey-Data.csv' is in the same folder as 'Code_501_final_project.ipynb'
+
