@@ -6,8 +6,10 @@ Assignments for Code 501 at Code Fellows
 * A survey of 15,000+ people who are actively learning to code, 48 questions
 * Surveyed by Free Code Camp and CodeNewbie.org
 * Data source: kaggle.com/freecodecamp/2016-new-coder-survey-
-* NumPy, Pandas, Scikit-Learn
-* Analysis and visualization of some of the demographics of the participants (income, age, gender, country of residence), 
+
+* Utilyzed NumPy and Pandas to explore demographics of the survey participants: income, age, gender, country of residence, 
   bootcamp attendance and programming experience
-* Modeling with k - nearest neighbors algorithm (model to predict gender of the participants based on the information in columns such
-  'Income', 'Age', and 'Country')
+* Performed t-Test to assess the difference in age and income between male and female survey participants
+* Utilized Scikit-Learn (k - nearest neighbors algorithm) to create a prediction model for gender of participants based on columns such as
+  'Income', 'Age', and 'CountryLive'. Compared accuracy of prediction for 4 created models.
+
